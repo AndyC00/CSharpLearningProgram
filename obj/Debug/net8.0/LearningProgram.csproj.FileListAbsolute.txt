@@ -1,0 +1,14 @@
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.AssemblyInfoInputs.cache
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.AssemblyInfo.cs
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.csproj.CoreCompileInputs.cache
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\bin\Debug\net8.0\LearningProgram.exe
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\bin\Debug\net8.0\LearningProgram.deps.json
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\bin\Debug\net8.0\LearningProgram.runtimeconfig.json
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\bin\Debug\net8.0\LearningProgram.dll
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\bin\Debug\net8.0\LearningProgram.pdb
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.dll
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\refint\LearningProgram.dll
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.pdb
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.genruntimeconfig.cache
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\ref\LearningProgram.dll
