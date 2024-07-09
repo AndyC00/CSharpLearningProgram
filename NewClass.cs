@@ -31,5 +31,10 @@ namespace LearningProgram
         {
             Console.WriteLine($"{Name} is studying {Major}");
         }
+
+        public void Study(string University)
+        {
+            Console.WriteLine($"{Name} is studying {Major} at {University}");
+        }
     }
 }

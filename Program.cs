@@ -37,6 +37,9 @@ class Program
         stu1.ID = 2;
         stu1.Major = "Math";
         stu1.Study();
+        string University = "AUT";
+        stu1.Study(University);
+        stu1.Study("UoA");
 
     Console.ReadLine();
     }

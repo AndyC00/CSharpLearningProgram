@@ -12,3 +12,4 @@ C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\refint\
 C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.pdb
 C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.genruntimeconfig.cache
 C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\ref\LearningProgram.dll
+C:\Users\chenj\OneDrive\桌面\Projects\LearningProgram\obj\Debug\net8.0\LearningProgram.sourcelink.json
