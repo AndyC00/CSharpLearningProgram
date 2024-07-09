@@ -32,9 +32,21 @@ namespace LearningProgram
             Console.WriteLine($"{Name} is studying {Major}");
         }
 
-        public void Study(string University)
+        public void Study(string aaa)
         {
-            Console.WriteLine($"{Name} is studying {Major} at {University}");
+            Console.WriteLine($"{Name} is studying {Major} at {aaa}");
         }
     }
+
+    public class user : IUser
+        {
+        public string Name {get; set; }
+
+        public int Age {get; set; }
+
+            public void aMethod()
+            {
+                Console.WriteLine($"{Name} has joined the chat");
+            }
+        }
 }

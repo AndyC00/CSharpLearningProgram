@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Data;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 using LearningProgram;
 
 class Program
@@ -40,6 +42,12 @@ class Program
         string University = "AUT";
         stu1.Study(University);
         stu1.Study("UoA");
+        stu1.Say("Batman", "Are you clown?");
+
+        IUser player1 = new user();
+        player1.Name = "A random user 001";
+        player1.Age = 100;
+        player1.aMethod();
 
     Console.ReadLine();
     }
