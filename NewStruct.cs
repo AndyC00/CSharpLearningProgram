@@ -10,6 +10,12 @@ namespace LearningProgram
         public string title;
         public string author;
         public int year;
+        public int publishingYear;
         public bool published;
+
+        public int HowLong(int year, int publishingYear)
+        {
+            return year - publishingYear;
+        }
     }
 }

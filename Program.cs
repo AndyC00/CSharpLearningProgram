@@ -119,16 +119,19 @@ class Program
     Console.WriteLine(Dic01["1st episode"]);
 
     //structure:
-    Magazine magazine1 = new Magazine();
+    Magazine magazine1; //creating struct does not need keyword "new"
     magazine1.title = "World of Natual";
     magazine1.year = 2019;
+    magazine1.publishingYear = 2010;
     magazine1.author = "me";
     magazine1.published = true;
+    int time = magazine1.HowLong(magazine1.year, magazine1.publishingYear);
+    Console.WriteLine("The magazine has published for " + time + " years");
 
     //run the simple calculator:
         Calculator.Run();
 
-
+    //event:
 
     Console.ReadLine();
     }
