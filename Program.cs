@@ -3,6 +3,8 @@ using System.Data;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using LearningProgram;
+using System.Collections;
+using System.Collections.Generic;
 
 class Program
 {
@@ -19,6 +21,55 @@ class Program
 
     static void Main(string[] arg)
     {
+    //list & arraylist:
+    someLists myList = new someLists();
+    Console.WriteLine(myList.list01[0]);
+    Console.WriteLine(myList.list01[7]);
+    myList.list01.Add("The 8th element");
+    Console.WriteLine(myList.list01[8]);
+    int count = myList.list01.Count;
+    Console.WriteLine("There are " + count + " elements in this list");
+    myList.list01.RemoveAt(1);
+    myList.list01.Remove(5);
+    myList.list01.Insert(1, "the second element");
+
+    int count2 = myList.list02.Count;
+    Console.WriteLine("The second list has " + count2 + " elements");
+
+    //loop:
+    foreach (var element in myList.list01)
+    {
+        Console.Write(element);
+        Console.Write("\t");
+    }
+    Console.WriteLine(" ");
+
+    foreach (object item in myList.list02)
+    {
+        Console.Write(item);
+        Console.Write("\t");
+    }
+    Console.Write("\n");
+    
+    //sorting the list:
+    List<float> listFloat = new List<float>();
+    for(int i = 0; i < count2; i++)
+    {
+        if(myList.list02[i] is int)
+        {
+            listFloat.Add((float)myList.list02[i]);
+        }
+        else if(myList.list02[i] is float)
+        {
+            listFloat.Add((float)myList.list02[i]);
+        }
+    }
+    listFloat.Sort();
+    foreach(float item in listFloat)
+    {
+        Console.Write(item + "\t");
+    }
+
     //enum:
         int x = (int)Days.Sunday;
         int y = (int)Days.Friday;
@@ -68,6 +119,7 @@ class Program
     float b = Convert.ToSingle(Console.ReadLine());
     string op = Convert.ToString(Console.ReadLine());
 
+    //switch:
     switch (op)
     {
         case "+":

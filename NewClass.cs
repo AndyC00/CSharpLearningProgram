@@ -5,6 +5,8 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
+using System.Collections;
+
 
 namespace LearningProgram
 {
@@ -49,4 +51,22 @@ namespace LearningProgram
                 Console.WriteLine($"{Name} has joined the chat");
             }
         }
+    
+    public class someLists
+    {
+        public ArrayList list01 = new ArrayList()
+        {
+            1,2,3,4,5,6,true,"yeah"
+        };
+
+    //creating a list using struct:
+        public List<object> list02;
+        public someLists()
+        {
+            list02 = new List<object>()
+            {
+                4.1, 5.2, 7, 10, "interesting", true, false, 1, 0, 1000, 99, 120, 111,
+            };
+        }
+    }
 }
