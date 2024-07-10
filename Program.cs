@@ -111,14 +111,22 @@ class Program
 
         Console.WriteLine(" ");
     
-    //run the simple calculator:
-    Calculator.Run();
-
-    //dictionary:
-
-
+    //Dictionary:
+    Dictionary<string, object> Dic01 = new Dictionary<string, object>();
+    Dic01.Add("1st episode", "nothing here");
+    Dic01.Add("2nd episode", 45);
+    Dic01.Add("3rd episode", true);
+    Console.WriteLine(Dic01["1st episode"]);
 
     //structure:
+    Magazine magazine1 = new Magazine();
+    magazine1.title = "World of Natual";
+    magazine1.year = 2019;
+    magazine1.author = "me";
+    magazine1.published = true;
+
+    //run the simple calculator:
+        Calculator.Run();
 
 
 
