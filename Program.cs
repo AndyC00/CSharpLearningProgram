@@ -40,14 +40,14 @@ class Program
     foreach (var element in myList.list01)
     {
         Console.Write(element);
-        Console.Write("\t");
+        Console.Write(" ");
     }
     Console.WriteLine(" ");
 
     foreach (object item in myList.list02)
     {
         Console.Write(item);
-        Console.Write("\t");
+        Console.Write(" ");
     }
     Console.Write("\n");
     
@@ -57,7 +57,7 @@ class Program
     {
         if(myList.list02[i] is int)
         {
-            listFloat.Add((float)myList.list02[i]);
+            listFloat.Add((float)(int)myList.list02[i]);
         }
         else if(myList.list02[i] is float)
         {
@@ -67,7 +67,7 @@ class Program
     listFloat.Sort();
     foreach(float item in listFloat)
     {
-        Console.Write(item + "\t");
+        Console.Write(item + " ");
     }
 
     //enum:
@@ -87,7 +87,7 @@ class Program
         string judge = "superman";
         someone.Say(judge, msg);
 
-        Console.WriteLine("\n");
+        Console.Write("\n");
 
     //sub-class:
         Student stu1 = new Student();
@@ -101,7 +101,7 @@ class Program
         stu1.Study("UoA");
         stu1.Say("Batman", "Are you clown?");
 
-        Console.WriteLine("\n");
+        Console.WriteLine(" ");
 
     //Interface:
         IUser player1 = new user();
@@ -109,44 +109,18 @@ class Program
         player1.Age = 100;
         player1.aMethod();
 
-        Console.WriteLine("\n");
+        Console.WriteLine(" ");
+    
+    //run the simple calculator:
+    Calculator.Run();
 
-    //a simple calculator:
-    Console.WriteLine("Please enter 2 integers and a operator");
-    Console.WriteLine("Press ‘“’Enter‘”’ to input the next character");
+    //dictionary:
 
-    float a = Convert.ToSingle(Console.ReadLine());
-    float b = Convert.ToSingle(Console.ReadLine());
-    string op = Convert.ToString(Console.ReadLine());
 
-    //switch:
-    switch (op)
-    {
-        case "+":
-            Console.WriteLine("The result is " + (a+b));
-            break;
-        case "-":
-            Console.WriteLine("The result is " + (a-b));
-            break;
-        case "*":
-            Console.WriteLine("The result is " + (a*b));
-            break;
-        case "/":
-            if(b==0)
-            {
-                Console.WriteLine("Error! The denominator can not be 0");
-            }
-            else
-            {
-                Console.WriteLine("The result is " + (a/b));
-            }
-            break;
-        case "%":
-            Console.WriteLine("The result is " + (a%b));
-            break;
-        default:
-            break;
-    }
+
+    //structure:
+
+
 
     Console.ReadLine();
     }
