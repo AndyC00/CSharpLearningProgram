@@ -104,7 +104,7 @@ class Program
         Console.WriteLine(" ");
 
     //Interface:
-        IUser player1 = new user();
+        IUser player1 = new User();
         player1.Name = "A random user 001";
         player1.Age = 100;
         player1.aMethod();

@@ -13,8 +13,8 @@ namespace LearningProgram
     public class Person
     {
         public int ID {get; set; }
-        public string Name {get; set; }
-        public int Age {get; set;}
+        public string Name {get; set; } = " ";
+        public int Age {get; set; }
 
         //methods
         public void Say(string judge, string msg)
@@ -27,7 +27,7 @@ namespace LearningProgram
 
     public class Student: Person
     {
-        public string Major {get; set; }
+        public string Major {get; set; } = " ";
 
         public void Study()
         {
@@ -40,9 +40,9 @@ namespace LearningProgram
         }
     }
 
-    public class user : IUser
+    public class User : IUser
         {
-        public string Name {get; set; }
+        public string Name {get; set; } = " ";
 
         public int Age {get; set; }
 

@@ -16,7 +16,7 @@ class Calculator
 
     float a = Convert.ToSingle(Console.ReadLine());
     float b = Convert.ToSingle(Console.ReadLine());
-    string op = Convert.ToString(Console.ReadLine());
+    string op = Convert.ToString(Console.ReadLine()) ?? "";
 
     //switch:
     switch (op)
