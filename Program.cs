@@ -5,6 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using LearningProgram;
 using System.Collections;
 using System.Collections.Generic;
+using System.Timers;
 
 class Program
 {
@@ -131,8 +132,18 @@ class Program
     //run the simple calculator:
         Calculator.Run();
 
-    //event:
+    //event: A 2s timer:
+    EventTimer timer = new EventTimer(2000);
+    TimerHandler handler = new TimerHandler();
 
+    timer.Elapsed += handler.OnTimerElapsed;
+
+    timer.Start();
+    Console.WriteLine("The 2s timer has start!\nPress any key to exit.");
+    Console.ReadKey();
+    timer.Stop();
+
+    //avoid the report
     Console.ReadLine();
     }
 }
