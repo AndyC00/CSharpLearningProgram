@@ -130,6 +130,12 @@ class Program
         int time = magazine1.HowLong(magazine1.year, magazine1.publishingYear);
         Console.WriteLine("The magazine has published for " + time + " years");
 
+        //reference:
+        int num1 = 55, num2 = 100;
+        char op = '%';
+        Calculator.Run(ref num1, op, ref num2);
+        Console.WriteLine(" of calculating " + num1 + " " + op + " " + num2);
+
         //run the simple calculator:
         Calculator.Run();
 

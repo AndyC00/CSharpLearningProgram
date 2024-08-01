@@ -7,7 +7,38 @@ using LearningProgram;
 
 class Calculator
 {
+    public static void Run(ref int a, char op, ref int b)
+    {
+        switch (op)
+        {
+        case '+':
+            Console.WriteLine("The result is " + (a+b));
+            break;
+        case '-':
+            Console.WriteLine("The result is " + (a-b));
+            break;
+        case '*':
+            Console.WriteLine("The result is " + (a*b));
+            break;
+        case '/':
+            if(b==0)
+            {
+                Console.WriteLine("Error! The denominator can not be 0");
+            }
+            else
+            {
+                Console.WriteLine("The result is " + (a/b));
+            }
+            break;
+        case '%':
+            Console.WriteLine("The result is " + (a%b));
+            break;
+        default:
+            break;
+        }
+    }
 
+    //Method overloading
     public static void Run()
     {
     //a simple calculator:
