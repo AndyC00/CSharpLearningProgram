@@ -83,3 +83,21 @@ class RandomClass
 
 }
 
+// define a function to filter all numbers bigger than 10 from the array:
+class Practice
+{
+    static int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 30, 40, 50, 60, 70, 80, 90, 100 };
+    static List<int> Filter(int[] nums, Func<int, bool> fn)
+    { 
+        List<int> result = new List<int>();
+        foreach (int i in nums)
+        {
+            if (fn(i))
+            { 
+                result.Add(i);
+            }
+        }
+        return result;
+    }
+    List<int> result = Filter(numbers, n => n > 10);
+}
