@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chenj\\OneDrive\\桌面\\Projects\\LearningProgram\\LearningProgram.csproj": {}
+    "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chenj\\OneDrive\\桌面\\Projects\\LearningProgram\\LearningProgram.csproj": {
+    "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chenj\\OneDrive\\桌面\\Projects\\LearningProgram\\LearningProgram.csproj",
+        "projectUniqueName": "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj",
         "projectName": "LearningProgram",
-        "projectPath": "C:\\Users\\chenj\\OneDrive\\桌面\\Projects\\LearningProgram\\LearningProgram.csproj",
-        "packagesPath": "C:\\Users\\chenj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chenj\\OneDrive\\桌面\\Projects\\LearningProgram\\obj\\",
+        "projectPath": "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj",
+        "packagesPath": "C:\\Users\\kuxai\\.nuget\\packages\\",
+        "outputPath": "C:\\Unreal\\CSharpLearningProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\chenj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kuxai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

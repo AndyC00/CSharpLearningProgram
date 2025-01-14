@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Timers;
 
-class Program
+class Aprogram
 {
     //enum:
     enum Days
