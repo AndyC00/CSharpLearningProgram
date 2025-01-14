@@ -157,7 +157,10 @@ class Aprogram
         Console.WriteLine(RandomClass.fn("Andy"));
         Console.WriteLine(RandomClass.fn2("Jamie"));
         Console.WriteLine(RandomClass.fn3(4, 5));
-        Console.WriteLine(RandomClass.act);
+        RandomClass.act("???");
+        Console.WriteLine(RandomClass.fn4(3, 4));
+        RandomClass.fn6(1, 2);
+
 
         //avoid the report
         Console.ReadLine();
