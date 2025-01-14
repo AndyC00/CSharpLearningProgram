@@ -150,6 +150,15 @@ class Aprogram
         Console.ReadKey();
         timer.Stop();
 
+        //from lambda.cs:
+        RandomClass random = new RandomClass();
+
+        random.say();
+        Console.WriteLine(RandomClass.fn("Andy"));
+        Console.WriteLine(RandomClass.fn2("Jamie"));
+        Console.WriteLine(RandomClass.fn3(4, 5));
+        Console.WriteLine(RandomClass.act);
+
         //avoid the report
         Console.ReadLine();
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj": {}
+    "C:\\Projects\\CSharpLearningProgram\\LearningProgram.csproj": {}
   },
   "projects": {
-    "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj": {
+    "C:\\Projects\\CSharpLearningProgram\\LearningProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharpLearningProgram\\LearningProgram.csproj",
         "projectName": "LearningProgram",
-        "projectPath": "C:\\Unreal\\CSharpLearningProgram\\LearningProgram.csproj",
+        "projectPath": "C:\\Projects\\CSharpLearningProgram\\LearningProgram.csproj",
         "packagesPath": "C:\\Users\\kuxai\\.nuget\\packages\\",
-        "outputPath": "C:\\Unreal\\CSharpLearningProgram\\obj\\",
+        "outputPath": "C:\\Projects\\CSharpLearningProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

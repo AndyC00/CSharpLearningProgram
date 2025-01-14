@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Unreal\\CSharpLearningProgram\\",
+  "WorkspaceRootPath": "C:\\Projects\\CSharpLearningProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\unreal\\csharplearningprogram\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\projects\\csharplearningprogram\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\projects\\csharplearningprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharpLearningProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\CSharpLearningProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJ0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:01:37.619Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lambda.cs",
-              "DocumentMoniker": "C:\\Unreal\\CSharpLearningProgram\\Lambda.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharpLearningProgram\\Lambda.cs",
               "RelativeDocumentMoniker": "Lambda.cs",
-              "ToolTip": "C:\\Unreal\\CSharpLearningProgram\\Lambda.cs",
-              "RelativeToolTip": "Lambda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Projects\\CSharpLearningProgram\\Lambda.cs*",
+              "RelativeToolTip": "Lambda.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T23:37:33.021Z",
               "EditorCaption": ""
