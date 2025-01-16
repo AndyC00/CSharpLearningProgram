@@ -9,5 +9,6 @@ namespace LearningProgram
     class Asynchronous
     {
         Action fn = () => Parallel.For(0, 10, i => Console.WriteLine(i));
+
     }
 }
