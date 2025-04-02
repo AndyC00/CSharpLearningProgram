@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\CSharpLearningProgram\\",
+  "WorkspaceRootPath": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\projects\\csharplearningprogram\\asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\projects\\csharplearningprogram\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\projects\\csharplearningprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\projects\\csharplearningprogram\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -26,56 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\CSharpLearningProgram\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Projects\\CSharpLearningProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:50:32.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:50:32.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Lambda.cs",
-              "DocumentMoniker": "C:\\Projects\\CSharpLearningProgram\\Lambda.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Lambda.cs",
               "RelativeDocumentMoniker": "Lambda.cs",
-              "ToolTip": "C:\\Projects\\CSharpLearningProgram\\Lambda.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Lambda.cs",
               "RelativeToolTip": "Lambda.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAUwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:50:28.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:50:28.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Projects\\CSharpLearningProgram\\.gitattributes",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "C:\\Projects\\CSharpLearningProgram\\.gitattributes",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\.gitattributes",
               "RelativeToolTip": ".gitattributes",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-14T03:50:27.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:50:27.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Asynchronous.cs",
-              "DocumentMoniker": "C:\\Projects\\CSharpLearningProgram\\Asynchronous.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Asynchronous.cs",
               "RelativeDocumentMoniker": "Asynchronous.cs",
-              "ToolTip": "C:\\Projects\\CSharpLearningProgram\\Asynchronous.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Asynchronous.cs",
               "RelativeToolTip": "Asynchronous.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T03:26:10.92Z",
               "EditorCaption": ""
