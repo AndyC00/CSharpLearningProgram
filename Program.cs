@@ -161,6 +161,13 @@ class Aprogram
         Console.WriteLine(RandomClass.fn4(3, 4));
         RandomClass.fn6(1, 2);
 
+        //interface:
+        SaveManager manager = new SaveManager();
+
+        manager.SaveData(new FileSaver());
+        manager.SaveData(new DatabaseSaver());
+        manager.SaveData(new CloudSaver());
+
 
         //avoid the report
         Console.ReadLine();

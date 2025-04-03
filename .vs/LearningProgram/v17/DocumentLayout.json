@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\async.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:async.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\allclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:allclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\newstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:newstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:asynchronous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\allclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:allclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|c:\\users\\chenj\\onedrive\\\u684C\u9762\\projects\\learningprogram\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF85E-CC14-4945-B9CF-9F27DEF9FA09}|LearningProgram.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,91 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Async.cs",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Async.cs",
-              "RelativeDocumentMoniker": "Async.cs",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Async.cs",
-              "RelativeToolTip": "Async.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T23:27:16.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AllClasses.cs",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\AllClasses.cs",
-              "RelativeDocumentMoniker": "AllClasses.cs",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\AllClasses.cs",
-              "RelativeToolTip": "AllClasses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T23:26:01.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-02T23:25:45.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAKMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:50:32.271Z",
+              "WhenOpened": "2025-04-03T23:31:12.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewStruct.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\NewStruct.cs",
+              "RelativeDocumentMoniker": "NewStruct.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\NewStruct.cs",
+              "RelativeToolTip": "NewStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:31:09.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lambda.cs",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Lambda.cs",
-              "RelativeDocumentMoniker": "Lambda.cs",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Lambda.cs",
-              "RelativeToolTip": "Lambda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:50:28.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\.gitattributes",
-              "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\.gitattributes",
-              "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-14T03:50:27.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Asynchronous.cs",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Asynchronous.cs",
               "RelativeDocumentMoniker": "Asynchronous.cs",
               "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Asynchronous.cs",
               "RelativeToolTip": "Asynchronous.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:26:10.92Z",
+              "WhenOpened": "2025-04-03T23:30:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "IUserInterface.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\IUserInterface.cs",
+              "RelativeToolTip": "IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:30:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllClasses.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\AllClasses.cs",
+              "RelativeDocumentMoniker": "AllClasses.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\AllClasses.cs",
+              "RelativeToolTip": "AllClasses.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:30:16.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Interface.cs",
+              "RelativeDocumentMoniker": "Interface.cs",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\LearningProgram\\Interface.cs",
+              "RelativeToolTip": "Interface.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:24:43.991Z",
               "EditorCaption": ""
             }
           ]
